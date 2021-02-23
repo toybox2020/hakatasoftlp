@@ -12,6 +12,8 @@
  **
  * footer
  *
+ * タブレット版
+ *
  * PC版
  *
  **/
@@ -407,7 +409,9 @@ dd {
 	padding-bottom: 15px;
 }
 
-/* タブレット版 */
+/*
+ *  タブレット版
+ */
 @media screen and (min-width: 768px) {
 
 	/*
